@@ -14,7 +14,7 @@ NGINX configuration examples for various situations.
 
 ### mutual-tls (strict) authentication
 
-Protect an nginx route with mutual tls by only allowing requests from valid clients.
+An [implementation example using Mutual TLS auth](./mutual-tls/) to protect an nginx route, allowing only requests from valid clients to access the endpoint.
 
 ![browser response to successful auth with client cert](./mutual-tls/images/mutual-secure-connection-confirmed.png)
 
