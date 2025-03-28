@@ -10,6 +10,8 @@ NGINX configuration examples for various situations.
 - open the `README` for the example
 - follow the example instructions for testing
 
+<br>
+
 ## Configurations
 
 ### mutual-tls (strict) authentication
@@ -18,7 +20,12 @@ An [implementation example using Mutual TLS auth](./mutual-tls/) to protect an n
 
 ![browser response to successful auth with client cert](./mutual-tls/images/mutual-secure-connection-confirmed.png)
 
-<br><br>
+
+### More Soon
+
+(see TODOs below for future contribution ideas, or feel free to contribute!)
+
+<br>
 
 ## Notes / Disclaimers:
 
@@ -32,6 +39,8 @@ An [implementation example using Mutual TLS auth](./mutual-tls/) to protect an n
     - Do not deploy anything here verbatim, instead use as a starter, reference, or working example
 
 Need Help? Please [reach out to us](mailto:hey@gigabitelabs.com) if you need custom implementation, support, deployment advice, etc.
+
+<br>
 
 ## TODO
 
